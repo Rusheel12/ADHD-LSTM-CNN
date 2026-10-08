@@ -81,3 +81,12 @@ The work is connected rather than isolated: preprocessing feeds model developmen
 ---
 
 **Team:** Nithya · Veda Gayathri · Meghana · Jacinth · Rusheel
+
+
+## Quick Access
+
+Scan the QR code below to open this project overview directly on GitHub.
+
+![QR code](assets/ADHD_EEG_GitHub_QR.svg)
+
+[Open the project overview](https://github.com/Rusheel12/ADHD-LSTM-CNN/blob/main/PROJECT_OVERVIEW.md)
